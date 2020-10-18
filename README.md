@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning a little of everything from frontend and backend to figure out what I like the most.
+- 📫 How to reach me: Usually a discord, twitter or instagram DM will do.
 <!--
 **sanatized/sanatized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
