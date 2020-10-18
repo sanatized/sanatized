@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning a little of everything from frontend and backend to figure out what I like the most.
 - 📫 How to reach me: Usually a discord, twitter or instagram DM will do:
   - Discord: Kapek#1229
-  - Twitter: @Sanatized
-  - Instagram: minatozakipics
+  - Twitter: [@Sanatized](http://twitter.com/sanatized)
+  - Instagram: [minatozakipics](http://instagram.com/minatozakipics)
 
 ![alt text](https://i.imgur.com/BsDNw12.png "loml")
 <!--
