@@ -1,5 +1,5 @@
 ### Hai
-- 🌱 I’m currently learning a little of everything from frontend and backend to figure out what I like the most.
+- 🌱 I’m currently learning a little of everything to see what I like. I mostly just create things I need.
 - 📫 How to reach me: Usually a discord, twitter or instagram DM will do:
   - Discord: Kapek#1229
   - Twitter: [@Sanatized](http://twitter.com/sanatized)
