@@ -1,6 +1,9 @@
 ### Hai
 - 🌱 I’m currently learning a little of everything from frontend and backend to figure out what I like the most.
-- 📫 How to reach me: Usually a discord, twitter or instagram DM will do.
+- 📫 How to reach me: Usually a discord, twitter or instagram DM will do:
+  - Discord: Kapek#1229
+  - Twitter: @Sanatized
+  - Instagram: minatozakipics
 
 ![alt text](https://i.imgur.com/BsDNw12.png "loml")
 <!--
