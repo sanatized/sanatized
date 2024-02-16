@@ -1,11 +1,8 @@
 ### Hai
 - 🌱 I’m currently learning a little of everything to see what I like. I mostly just create things I need.
-- 📫 How to reach me: Usually a discord, twitter or instagram DM will do:
-  - Discord: Kapek#1229
-  - Twitter: [@Sanatized](http://twitter.com/sanatized)
-  - Instagram: [minatozakipics](http://instagram.com/minatozakipics)
+- 📫 How to reach me: Usually a discord DM will do:
+  - Discord: imbovane
 
-![alt text](https://i.imgur.com/BsDNw12.png "loml")
 <!--
 **sanatized/sanatized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
